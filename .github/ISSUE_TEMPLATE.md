@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 26, 2025
+title: Latest 15 Papers - September 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -30,7 +30,7 @@ labels: documentation
 | **[SlideMamba: Entropy-Based Adaptive Fusion of GNN and Mamba for Enhanced Representation Learning in Digital Pathology](http://arxiv.org/abs/2509.21239v1)** | 2025-09-25 |  |
 | **[Embodied Representation Alignment with Mirror Neurons](http://arxiv.org/abs/2509.21136v1)** | 2025-09-25 | ICCV 2025 |
 | **[UniTransfer: Video Concept Transfer via Progressive Spatial and Timestep Decomposition](http://arxiv.org/abs/2509.21086v1)** | 2025-09-25 | NeuriIPS 2025 |
-| **[MolPILE - large-scale, diverse dataset for molecular representation learning](http://arxiv.org/abs/2509.18353v2)** | 2025-09-25 |  |
+| **[MolPILE -- large-scale, diverse dataset for molecular representation learning](http://arxiv.org/abs/2509.18353v2)** | 2025-09-25 |  |
 | **[Alignment Unlocks Complementarity: A Framework for Multiview Circuit Representation Learning](http://arxiv.org/abs/2509.20968v1)** | 2025-09-25 |  |
 | **[Flow Matching in the Low-Noise Regime: Pathologies and a Contrastive Remedy](http://arxiv.org/abs/2509.20952v1)** | 2025-09-25 |  |
 | **[Predictive Coding-based Deep Neural Network Fine-tuning for Computationally Efficient Domain Adaptation](http://arxiv.org/abs/2509.20269v2)** | 2025-09-25 | 20 pages, 4 figures |
