@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2025
+title: Latest 15 Papers - October 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -39,7 +39,7 @@ labels: documentation
 | **[Discrete Facial Encoding: : A Framework for Data-driven Facial Display Discovery](http://arxiv.org/abs/2510.01662v1)** | 2025-10-02 |  |
 | **[Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion](http://arxiv.org/abs/2501.14399v2)** | 2025-10-02 | <details><summary>Fixed...</summary><p>Fixed and extended results</p></details> |
 | **[BioBlobs: Differentiable Graph Partitioning for Protein Representation Learning](http://arxiv.org/abs/2510.01632v1)** | 2025-10-02 |  |
-| **[Disentangling Multiplex Spatial-Temporal Transition Graph Representation Learning for Socially Enhanced POI Recommendation](http://arxiv.org/abs/2508.07649v2)** | 2025-10-02 | <details><summary>There...</summary><p>There are quality issues with the paper and it requires major revisions</p></details> |
+| **[Disentangling Multiplex Spatial-Temporal Transition Graph Representation Learning for Socially Enhanced POI Recommendation](http://arxiv.org/abs/2508.07649v3)** | 2025-10-03 | <details><summary>The o...</summary><p>The original paper has issues and has been restructured in the work; it is no longer suitable, so I am applying for withdrawal</p></details> |
 | **[Self-Supervised Representation Learning as Mutual Information Maximization](http://arxiv.org/abs/2510.01345v1)** | 2025-10-01 |  |
 
 ## Misinformation Detection
@@ -83,19 +83,14 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents](http://arxiv.org/abs/2510.02271v1)** | 2025-10-02 |  |
-| **[The Unreasonable Effectiveness of Scaling Agents for Computer Use](http://arxiv.org/abs/2510.02250v1)** | 2025-10-02 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, 10 tables</p></details> |
-| **[Implementing Agents in JavaScript](http://arxiv.org/abs/2505.18228v2)** | 2025-10-02 | <details><summary>This ...</summary><p>This chapter will eventually by published in the book "Agents and Multi-Agent Systems Development -- Platforms, Toolkits, Technologies", edited by Collier, Mascardi, and Ricci</p></details> |
-| **[StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?](http://arxiv.org/abs/2510.02209v1)** | 2025-10-02 |  |
-| **[Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents](http://arxiv.org/abs/2510.02204v1)** | 2025-10-02 |  |
-| **[A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports](http://arxiv.org/abs/2510.02190v1)** | 2025-10-02 |  |
-| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
-| **[DisCo-Layout: Disentangling and Coordinating Semantic and Physical Refinement in a Multi-Agent Framework for 3D Indoor Layout Synthesis](http://arxiv.org/abs/2510.02178v1)** | 2025-10-02 |  |
-| **[Agentic Reasoning and Refinement through Semantic Interaction](http://arxiv.org/abs/2510.02157v1)** | 2025-10-02 |  |
-| **[When Disagreements Elicit Robustness: Investigating Self-Repair Capabilities under LLM Multi-Agent Disagreements](http://arxiv.org/abs/2502.15153v2)** | 2025-10-02 | Working in progress |
-| **[BioinfoMCP: A Unified Platform Enabling MCP Interfaces in Agentic Bioinformatics](http://arxiv.org/abs/2510.02139v1)** | 2025-10-02 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 3 tables</p></details> |
-| **[WebRollback: Enhancing Web Agents with Explicit Rollback Mechanisms](http://arxiv.org/abs/2504.11788v2)** | 2025-10-02 |  |
-| **[AdGT: Decentralized Gradient Tracking with Tuning-free Per-Agent Stepsize](http://arxiv.org/abs/2504.15196v2)** | 2025-10-02 |  |
-| **[DS-STAR: Data Science Agent via Iterative Planning and Verification](http://arxiv.org/abs/2509.21825v3)** | 2025-10-02 |  |
-| **[A cybersecurity AI agent selection and decision support framework](http://arxiv.org/abs/2510.01751v1)** | 2025-10-02 | <details><summary>6 fig...</summary><p>6 figures, 6 tables, AI agents decision support framework</p></details> |
+| **[Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair](http://arxiv.org/abs/2510.03217v1)** | 2025-10-03 |  |
+| **[MobiLLM: An Agentic AI Framework for Closed-Loop Threat Mitigation in 6G Open RANs](http://arxiv.org/abs/2509.21634v2)** | 2025-10-03 |  |
+| **[FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents](http://arxiv.org/abs/2510.03204v1)** | 2025-10-03 |  |
+| **[FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering](http://arxiv.org/abs/2508.14052v4)** | 2025-10-03 | 6 pages |
+| **[CoDA: Agentic Systems for Collaborative Data Visualization](http://arxiv.org/abs/2510.03194v1)** | 2025-10-03 | <details><summary>31 pa...</summary><p>31 pages, 6 figures, 5 tables</p></details> |
+| **[UniShield: An Adaptive Multi-Agent Framework for Unified Forgery Image Detection and Localization](http://arxiv.org/abs/2510.03161v1)** | 2025-10-03 |  |
+| **[Risk-Sensitive Agent Compositions](http://arxiv.org/abs/2506.04632v2)** | 2025-10-03 | 17 pages, 6 figures |
+| **[AudioToolAgent: An Agentic Framework for Audio-Language Models](http://arxiv.org/abs/2510.02995v1)** | 2025-10-03 |  |
+| **[DatawiseAgent: A Notebook-Centric LLM Agent Framework for Adaptive and Robust Data Science Automation](http://arxiv.org/abs/2503.07044v2)** | 2025-10-03 | <details><summary>The c...</summary><p>The camera-ready version for EMNLP 2025 Main Conference</p></details> |
+| **[Beyond the Final Answer: Evaluating the Reasoning Trajectories of Tool-Augmented Agents](http://arxiv.org/abs/2510.02837v1)** | 2025-10-03 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
 
