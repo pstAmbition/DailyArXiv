@@ -42,6 +42,25 @@ labels: documentation
 | **[STEMS: Spatial-Temporal Enhanced Safe Multi-Agent Coordination for Building Energy Management](http://arxiv.org/abs/2510.14112v1)** | 2025-10-15 |  |
 | **[CausalVerse: Benchmarking Causal Representation Learning with Configurable High-Fidelity Simulations](http://arxiv.org/abs/2510.14049v1)** | 2025-10-15 |  |
 
+## Causal Inference
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[REX: Causal discovery based on machine learning and explainability techniques](http://arxiv.org/abs/2501.12706v2)** | 2025-10-16 | <details><summary>22 pa...</summary><p>22 pages, 30 figures, Published in Elsevier's Pattern Recognition</p></details> |
+| **[Local Causal Discovery for Statistically Efficient Causal Inference](http://arxiv.org/abs/2510.14582v1)** | 2025-10-16 |  |
+| **[Replicable Bandits for Digital Health Interventions](http://arxiv.org/abs/2407.15377v4)** | 2025-10-16 | <details><summary>Stati...</summary><p>Statistical Science, 2025</p></details> |
+| **[Bayesian Doubly Robust Causal Inference via Posterior Coupling](http://arxiv.org/abs/2506.04868v2)** | 2025-10-16 | <details><summary>Keywo...</summary><p>Keywords: Bayesian inference, Double robustness, Efficiency improvement, Entropic tilting, Propensity score</p></details> |
+| **[CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under Out-Of-Distribution Shifts](http://arxiv.org/abs/2510.14273v1)** | 2025-10-16 |  |
+| **[APEX: Empowering LLMs with Physics-Based Task Planning for Real-time Insight](http://arxiv.org/abs/2505.13921v2)** | 2025-10-16 |  |
+| **[Regularizing Extrapolation in Causal Inference](http://arxiv.org/abs/2509.17180v2)** | 2025-10-16 |  |
+| **[SLOPE and Designing Robust Studies for Generalization](http://arxiv.org/abs/2510.01577v2)** | 2025-10-16 |  |
+| **[Exploratory Causal Inference in SAEnce](http://arxiv.org/abs/2510.14073v1)** | 2025-10-15 |  |
+| **[Do Large Language Models Show Biases in Causal Learning? Insights from Contingency Judgment](http://arxiv.org/abs/2510.13985v1)** | 2025-10-15 |  |
+| **[DeepCausalMMM: A Deep Learning Framework for Marketing Mix Modeling with Causal Inference](http://arxiv.org/abs/2510.13087v1)** | 2025-10-15 | <details><summary>Submi...</summary><p>Submitted to JOSS (Journal of Open Source Software) Journal for Publishing. It's currently in the Pre-review stage. Please note that Author has no middle name. Last name is 'Puttaparthi Tirumala' (it's a two-part surname)</p></details> |
+| **[Autoregressive models for panel data causal inference with application to state-level opioid policies](http://arxiv.org/abs/2408.09012v2)** | 2025-10-15 |  |
+| **[Towards xApp Conflict Evaluation with Explainable Machine Learning and Causal Inference in O-RAN](http://arxiv.org/abs/2510.13031v1)** | 2025-10-14 |  |
+| **[Identification and Estimation of Joint Potential Outcome Distributions from a Single Study](http://arxiv.org/abs/2509.20506v3)** | 2025-10-14 |  |
+| **[Causal inference of post-transcriptional regulation timelines from long-read sequencing in Arabidopsis thaliana](http://arxiv.org/abs/2510.12504v1)** | 2025-10-14 | <details><summary>25 pa...</summary><p>25 pages. GitHub repository at https://github.com/rmartosprieto/chloroDAG.git</p></details> |
+
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
