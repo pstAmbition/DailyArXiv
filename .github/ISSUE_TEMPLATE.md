@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2025
+title: Latest 15 Papers - October 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -8,36 +8,46 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[MILES: Modality-Informed Learning Rate Scheduler for Balancing Multimodal Learning](http://arxiv.org/abs/2510.17394v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted and presented at the 2025 International Joint Conference on Neural Networks (IJCNN'25). The paper was awarded an honorable mention (best 4 papers)</p></details> |
-| **[Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion](http://arxiv.org/abs/2502.20120v2)** | 2025-10-20 |  |
+| **[Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion](http://arxiv.org/abs/2502.20120v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[Graph4MM: Weaving Multimodal Learning with Structural Information](http://arxiv.org/abs/2510.16990v1)** | 2025-10-19 | ICML 2025 |
 | **[ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning](http://arxiv.org/abs/2510.16824v1)** | 2025-10-19 |  |
 | **[FetalCLIP: A Visual-Language Foundation Model for Fetal Ultrasound Image Analysis](http://arxiv.org/abs/2502.14807v3)** | 2025-10-19 |  |
+| **[Safire: Similarity Framework for Visualization Retrieval](http://arxiv.org/abs/2510.16662v1)** | 2025-10-18 | <details><summary>To ap...</summary><p>To appear in IEEE VIS 2025</p></details> |
+| **[G$^{2}$D: Boosting Multimodal Learning with Gradient-Guided Distillation](http://arxiv.org/abs/2506.21514v3)** | 2025-10-17 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
+| **[Towards Relaxed Multimodal Inputs for Gait-based Parkinson's Disease Assessment](http://arxiv.org/abs/2510.15748v1)** | 2025-10-17 |  |
+| **[Revisit Modality Imbalance at the Decision Layer](http://arxiv.org/abs/2510.14411v1)** | 2025-10-16 | <details><summary>Some ...</summary><p>Some Insights in Balanced Multimodal Learning</p></details> |
+| **[A Multimodal Approach to Heritage Preservation in the Context of Climate Change](http://arxiv.org/abs/2510.14136v1)** | 2025-10-15 |  |
+| **[Information-Theoretic Criteria for Knowledge Distillation in Multimodal Learning](http://arxiv.org/abs/2510.13182v1)** | 2025-10-15 |  |
+| **[A Text-Image Fusion Method with Data Augmentation Capabilities for Referring Medical Image Segmentation](http://arxiv.org/abs/2510.12482v1)** | 2025-10-14 |  |
+| **[IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation](http://arxiv.org/abs/2510.12095v1)** | 2025-10-14 | <details><summary>9 pag...</summary><p>9 pages main paper; 15 pages references and appendix</p></details> |
+| **[TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation](http://arxiv.org/abs/2510.07249v2)** | 2025-10-13 | <details><summary>Proje...</summary><p>Project page: https://talkcuts.github.io/</p></details> |
+| **[Multimodal Alignment and Fusion: A Survey](http://arxiv.org/abs/2411.17040v2)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted to IJCV 2025</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework](http://arxiv.org/abs/2510.18825v1)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 (Poster)</p></details> |
+| **[Learning to See and Act: Task-Aware View Planning for Robotic Manipulation](http://arxiv.org/abs/2508.05186v2)** | 2025-10-21 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, project page: https://hcplab-sysu.github.io/TAVP</p></details> |
+| **[Exploring a Unified Vision-Centric Contrastive Alternatives on Multi-Modal Web Documents](http://arxiv.org/abs/2510.18703v1)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project page: this https://linyq17.github.io/VC2L/</p></details> |
+| **[A Stage-Wise Learning Strategy with Fixed Anchors for Robust Speaker Verification](http://arxiv.org/abs/2510.18530v1)** | 2025-10-21 |  |
+| **[MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction](http://arxiv.org/abs/2510.15985v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted to PRICAI 2025</p></details> |
+| **[Simple and Efficient Heterogeneous Temporal Graph Neural Network](http://arxiv.org/abs/2510.18467v1)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by Neurips 2025</p></details> |
+| **[GreenHyperSpectra: A multi-source hyperspectral dataset for global vegetation trait prediction](http://arxiv.org/abs/2507.06806v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[ProLAP: Probabilistic Language-Audio Pre-Training](http://arxiv.org/abs/2510.18423v1)** | 2025-10-21 | Under review |
+| **[Towards Identifiability of Hierarchical Temporal Causal Representation Learning](http://arxiv.org/abs/2510.18310v1)** | 2025-10-21 |  |
+| **[Diverse Influence Component Analysis: A Geometric Approach to Nonlinear Mixture Identifiability](http://arxiv.org/abs/2510.17040v2)** | 2025-10-21 | 30 pages, 3 figures |
+| **[A Generalized Bisimulation Metric of State Similarity between Markov Decision Processes: From Theoretical Propositions to Applications](http://arxiv.org/abs/2509.18714v2)** | 2025-10-21 | <details><summary>This ...</summary><p>This paper is accepted by the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation](http://arxiv.org/abs/2402.07127v3)** | 2025-10-20 | <details><summary>Publi...</summary><p>Published at IEEE Access</p></details> |
+| **[$\boldsymbolλ$-Orthogonality Regularization for Compatible Representation Learning](http://arxiv.org/abs/2509.16664v2)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS2025</p></details> |
+| **[Universal Spectral Tokenization via Self-Supervised Panchromatic Representation Learning](http://arxiv.org/abs/2510.17959v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Machine Learning and the Physical Sciences Workshop</p></details> |
 | **[DELULU: Discriminative Embedding Learning Using Latent Units for Speaker-Aware Self-Supervised Speech Foundational Model](http://arxiv.org/abs/2510.17662v1)** | 2025-10-20 |  |
-| **[Plasma Shape Control via Zero-shot Generative Reinforcement Learning](http://arxiv.org/abs/2510.17531v1)** | 2025-10-20 |  |
-| **[Adv-SSL: Adversarial Self-Supervised Representation Learning with Theoretical Guarantees](http://arxiv.org/abs/2408.08533v2)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at the Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[DETree: DEtecting Human-AI Collaborative Texts via Tree-Structured Hierarchical Representation Learning](http://arxiv.org/abs/2510.17489v1)** | 2025-10-20 | <details><summary>To ap...</summary><p>To appear in NeurIPS 2025</p></details> |
-| **[SSL4Eco: A Global Seasonal Dataset for Geospatial Foundation Models in Ecology](http://arxiv.org/abs/2504.18256v3)** | 2025-10-20 | <details><summary>CVPR ...</summary><p>CVPR 2025, EarthVision workshop</p></details> |
-| **[Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models](http://arxiv.org/abs/2510.15430v2)** | 2025-10-20 | <details><summary>Withd...</summary><p>Withdrawn due to an accidental duplicate submission. This paper (arXiv:2510.15430) was unintentionally submitted as a new entry instead of a new version of our previous work (arXiv:2508.09201)</p></details> |
-| **[Continuous Dynamic Modeling via Neural ODEs for Popularity Trajectory Prediction](http://arxiv.org/abs/2410.18742v3)** | 2025-10-20 |  |
-| **[Nearest-Class Mean and Logits Agreement for Wildlife Open-Set Recognition](http://arxiv.org/abs/2510.17338v1)** | 2025-10-20 |  |
-| **[The quest for the GRAph Level autoEncoder (GRALE)](http://arxiv.org/abs/2505.22109v3)** | 2025-10-20 |  |
-| **[Addressing Antisocial Behavior in Multi-Party Dialogs Through Multimodal Representation Learning](http://arxiv.org/abs/2510.17289v1)** | 2025-10-20 |  |
-| **[MIRROR: Multi-Modal Pathological Self-Supervised Representation Learning via Modality Alignment and Retention](http://arxiv.org/abs/2503.00374v4)** | 2025-10-20 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 10 tables. Code available at https://github.com/TianyiFranklinWang/MIRROR. Project page: https://tianyifranklinwang.github.io/MIRROR</p></details> |
-| **[HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery](http://arxiv.org/abs/2510.17188v1)** | 2025-10-20 | <details><summary>Accpe...</summary><p>Accpeted at NeurIPS (2025) Main Conference</p></details> |
-| **[Visual Instruction Bottleneck Tuning](http://arxiv.org/abs/2505.13946v2)** | 2025-10-20 | NeurIPS 2025 |
-| **[Large-scale User Game Lifecycle Representation Learning](http://arxiv.org/abs/2510.15412v2)** | 2025-10-20 |  |
-| **[DFNN: A Deep Fréchet Neural Network Framework for Learning Metric-Space-Valued Responses](http://arxiv.org/abs/2510.17072v1)** | 2025-10-20 |  |
 
 ## Causal Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Improving the Generation and Evaluation of Synthetic Data for Downstream Medical Causal Inference](http://arxiv.org/abs/2510.18768v1)** | 2025-10-21 |  |
 | **[Causally Perturbed Fairness Testing](http://arxiv.org/abs/2510.18719v1)** | 2025-10-21 | accepted by TOSEM |
-| **[A Multi-Evidence Framework Rescues Low- Power Prognostic Signals and Rejects Statistical Artifacts in Cancer Genomics](http://arxiv.org/abs/2510.18571v1)** | 2025-10-21 | <details><summary>17 pa...</summary><p>17 pages (main text), 4 figures (main text), 7 supplementary figures, 4 supplementary tables. Focuses on a computational framework using causal inference and biological validation for underpowered cancer genomic studies</p></details> |
+| **[A Multi-Evidence Framework Rescues Low-Power Prognostic Signals and Rejects Statistical Artifacts in Cancer Genomics](http://arxiv.org/abs/2510.18571v1)** | 2025-10-21 | <details><summary>17 pa...</summary><p>17 pages (main text), 4 figures (main text), 7 supplementary figures, 4 supplementary tables. Focuses on a computational framework using causal inference and biological validation for underpowered cancer genomic studies</p></details> |
 | **[LongInsightBench: A Comprehensive Benchmark for Evaluating Omni-Modal Models on Human-Centric Long-Video Understanding](http://arxiv.org/abs/2510.17305v2)** | 2025-10-21 | <details><summary>Submi...</summary><p>Submitted to ARR Rolling Review</p></details> |
 | **[Online Time Series Forecasting with Theoretical Guarantees](http://arxiv.org/abs/2510.18281v1)** | 2025-10-21 |  |
 | **[Can We Validate Counterfactual Estimations in the Presence of General Network Interference?](http://arxiv.org/abs/2502.01106v2)** | 2025-10-21 |  |
@@ -81,12 +91,12 @@ labels: documentation
 | **[SafeSearch: Do Not Trade Safety for Utility in LLM Search Agents](http://arxiv.org/abs/2510.17017v2)** | 2025-10-21 |  |
 | **[Stop Reducing Responsibility in LLM-Powered Multi-Agent Systems to Local Alignment](http://arxiv.org/abs/2510.14008v2)** | 2025-10-21 | <details><summary>Updat...</summary><p>Updated manuscript of our previous version (arXiv:2502.01714). Under review</p></details> |
 | **[EvalAssist: A Human-Centered Tool for LLM-as-a-Judge](http://arxiv.org/abs/2507.02186v2)** | 2025-10-21 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2410.00873</p></details> |
-| **[ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder](http://arxiv.org/abs/2510.18795v1)** | 2025-10-21 | 17 pages, 5 fiugres |
+| **[ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder](http://arxiv.org/abs/2510.18795v2)** | 2025-10-22 | 17 pages, 5 fiugres |
 | **[ShaRE your Data! Characterizing Datasets for LLM-based Requirements Engineering](http://arxiv.org/abs/2510.18787v1)** | 2025-10-21 | Under review |
 | **[Is Implicit Knowledge Enough for LLMs? A RAG Approach for Tree-based Structures](http://arxiv.org/abs/2510.10806v2)** | 2025-10-21 | <details><summary>Waiti...</summary><p>Waiting for Conference Response</p></details> |
 | **[Facts are Harder Than Opinions -- A Multilingual, Comparative Analysis of LLM-Based Fact-Checking Reliability](http://arxiv.org/abs/2506.03655v2)** | 2025-10-21 |  |
 | **[Static Sandboxes Are Inadequate: Modeling Societal Complexity Requires Open-Ended Co-Evolution in LLM-Based Multi-Agent Simulations](http://arxiv.org/abs/2510.13982v3)** | 2025-10-21 | <details><summary>Prepr...</summary><p>Preprint; feedback welcome</p></details> |
-| **[From Reviews to Actionable Insights: An LLM-Based Approach for Attribute and Feature Extraction](http://arxiv.org/abs/2510.16551v2)** | 2025-10-21 |  |
+| **[From Reviews to Actionable Insights: An LLM-Based Approach for Attribute and Feature Extraction](http://arxiv.org/abs/2510.16551v3)** | 2025-10-22 |  |
 | **[Exploring Influence Factors on LLM Suitability for No-Code Development of End User IoT Applications](http://arxiv.org/abs/2505.04710v2)** | 2025-10-21 |  |
 
 ## Agent
@@ -102,7 +112,7 @@ labels: documentation
 | **[Fetch.ai: An Architecture for Modern Multi-Agent Systems](http://arxiv.org/abs/2510.18699v1)** | 2025-10-21 | <details><summary>26 pa...</summary><p>26 pages, figures, code examples</p></details> |
 | **[An Automated Multi-modal Evaluation Framework for Mobile Intelligent Assistants Based on Large Language Models and Multi-Agent Collaboration](http://arxiv.org/abs/2508.09507v2)** | 2025-10-21 |  |
 | **[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](http://arxiv.org/abs/2506.09049v2)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project page: https://faceong.github.io/VIKI-R/</p></details> |
-| **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[A representational framework for learning and encoding structurally enriched trajectories in complex agent environments](http://arxiv.org/abs/2503.13194v2)** | 2025-10-21 |  |
 | **[SentinelNet: Safeguarding Multi-Agent Collaboration Through Credit-Based Dynamic Threat Detection](http://arxiv.org/abs/2510.16219v2)** | 2025-10-21 |  |
 | **[CUARewardBench: A Benchmark for Evaluating Reward Models on Computer-using Agent](http://arxiv.org/abs/2510.18596v1)** | 2025-10-21 | 24 pages, 6 figures |
