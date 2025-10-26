@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 25, 2025
+title: Latest 15 Papers - October 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -36,6 +36,11 @@ labels: documentation
 | **[Mitigating Cross-modal Representation Bias for Multicultural Image-to-Recipe Retrieval](http://arxiv.org/abs/2510.20393v1)** | 2025-10-23 | ACM Multimedia 2025 |
 | **[Towards Robust Zero-Shot Reinforcement Learning](http://arxiv.org/abs/2510.15382v2)** | 2025-10-23 | <details><summary>Neuri...</summary><p>Neurips 2025, 29 pages, 19 figures</p></details> |
 | **[GUSL-Dehaze: A Green U-Shaped Learning Approach to Image Dehazing](http://arxiv.org/abs/2510.20266v1)** | 2025-10-23 |  |
+| **[Budgeted Embedding Table For Recommender Systems](http://arxiv.org/abs/2310.14884v7)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to WSDM 2024. Code is available at https://github.com/qykcq/Budgeted-Embedding-Table-For-Recommender-Systems</p></details> |
+| **[Towards Objective Obstetric Ultrasound Assessment: Contrastive Representation Learning for Fetal Movement Detection](http://arxiv.org/abs/2510.20214v1)** | 2025-10-23 | <details><summary>This ...</summary><p>This is the preprint version of the manuscript submitted to IEEE Journal of Biomedical and Health Informatics (JBHI) for review</p></details> |
+| **[A Structured Review and Quantitative Profiling of Public Brain MRI Datasets for Foundation Model Development](http://arxiv.org/abs/2510.20196v1)** | 2025-10-23 |  |
+| **[IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks](http://arxiv.org/abs/2510.20165v1)** | 2025-10-23 | <details><summary>Publi...</summary><p>Published in the Proceedings of the Thirty Fifth AAAI Conference on Artificial Intelligence (AAAI 2021), paper number 7926</p></details> |
+| **[TOMCAT: Test-time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning](http://arxiv.org/abs/2510.20162v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 
 ## Causal Inference
 | **Title** | **Date** | **Comment** |
