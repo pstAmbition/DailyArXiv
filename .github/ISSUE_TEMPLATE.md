@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2025
+title: Latest 15 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -8,7 +8,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[DynCIM: Dynamic Curriculum for Imbalanced Multimodal Learning](http://arxiv.org/abs/2503.06456v3)** | 2025-10-27 |  |
-| **[Why Foundation Models in Pathology Are Failing](http://arxiv.org/abs/2510.23807v1)** | 2025-10-27 |  |
+| **[Why Foundation Models in Pathology Are Failing](http://arxiv.org/abs/2510.23807v2)** | 2025-10-29 |  |
 | **[Robust Multimodal Learning via Cross-Modal Proxy Tokens](http://arxiv.org/abs/2501.17823v4)** | 2025-10-25 | <details><summary>28 Pa...</summary><p>28 Pages, 13 Figures, 11 Tables. Accepted by Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[Amplifying Prominent Representations in Multimodal Learning via Variational Dirichlet Process](http://arxiv.org/abs/2510.20736v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by NeruIPS 2025</p></details> |
 | **[Multimodal Negative Learning](http://arxiv.org/abs/2510.20877v1)** | 2025-10-23 | <details><summary>Publi...</summary><p>Published in NeurIPS 2025</p></details> |
