@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 01, 2025
+title: Latest 15 Papers - November 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -54,6 +54,12 @@ labels: documentation
 | **[Chiseling: Powerful and Valid Subgroup Selection via Interactive Machine Learning](http://arxiv.org/abs/2509.19490v3)** | 2025-10-29 | <details><summary>26+7+...</summary><p>26+7+97 pages (main text, references, appendix), 6+15 figures (main text, appendix); fixed some references; added link to reproducible code repository</p></details> |
 | **[Efficient nonparametric estimation with difference-in-differences in the presence of network dependence and interference](http://arxiv.org/abs/2502.03414v3)** | 2025-10-29 |  |
 | **[Path-specific effects for pulse-oximetry guided decisions in critical care](http://arxiv.org/abs/2506.12371v3)** | 2025-10-29 |  |
+| **[An Analysis of Causal Effect Estimation using Outcome Invariant Data Augmentation](http://arxiv.org/abs/2510.25128v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Replicable Bandits for Digital Health Interventions](http://arxiv.org/abs/2407.15377v5)** | 2025-10-28 | <details><summary>Updat...</summary><p>Updating acknowledgements</p></details> |
+| **[Machine-Learning-Assisted Comparison of Regression Functions](http://arxiv.org/abs/2510.24714v1)** | 2025-10-28 |  |
+| **[GST-UNet: A Neural Framework for Spatiotemporal Causal Inference with Time-Varying Confounding](http://arxiv.org/abs/2502.05295v2)** | 2025-10-28 | <details><summary>29 pa...</summary><p>29 pages, 6 figures, 6 tables, NeurIPS 2025</p></details> |
+| **[Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach](http://arxiv.org/abs/2505.17637v2)** | 2025-10-28 |  |
+| **[Decentralized Causal Discovery using Judo Calculus](http://arxiv.org/abs/2510.23942v1)** | 2025-10-27 | 54 pages |
 
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
