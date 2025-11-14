@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -8,13 +8,13 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[On the Computational Benefit of Multimodal Learning](https://arxiv.org/pdf/2309.13782v2)** | 2023-12-19 | ALT 2024, to appear |
-| **[Factorized Multimodal Transformer for Multimodal Sequential Learning](https://arxiv.org/pdf/1911.09826v1)** | 2019-11-25 |  |
 | **[Multimodal Learning with Transformers: A Survey](https://arxiv.org/pdf/2206.06488v2)** | 2023-05-11 | <details><summary>This ...</summary><p>This paper is accepted by IEEE TPAMI</p></details> |
+| **[Factorized Multimodal Transformer for Multimodal Sequential Learning](https://arxiv.org/pdf/1911.09826v1)** | 2019-11-25 |  |
 | **[Modality Influence in Multimodal Machine Learning](https://arxiv.org/pdf/2306.06476v1)** | 2023-06-13 | 10 pages |
 | **[Multimodal Negative Learning](https://arxiv.org/pdf/2510.20877v1)** | 2025-10-27 | <details><summary>Publi...</summary><p>Published in NeurIPS 2025</p></details> |
-| **[Multimodality in Meta-Learning: A Comprehensive Survey](https://arxiv.org/pdf/2109.13576v2)** | 2022-05-10 | <details><summary>Accep...</summary><p>Accepted by Knowledge-Based Systems; 21 pages</p></details> |
-| **[On Robustness in Multimodal Learning](https://arxiv.org/pdf/2304.04385v2)** | 2023-04-12 |  |
 | **[Learning Factorized Multimodal Representations](https://arxiv.org/pdf/1806.06176v3)** | 2019-05-15 | ICLR 2019 |
+| **[On Robustness in Multimodal Learning](https://arxiv.org/pdf/2304.04385v2)** | 2023-04-12 |  |
+| **[Multimodality in Meta-Learning: A Comprehensive Survey](https://arxiv.org/pdf/2109.13576v2)** | 2022-05-10 | <details><summary>Accep...</summary><p>Accepted by Knowledge-Based Systems; 21 pages</p></details> |
 | **[Self-Supervised Multimodal Learning: A Survey](https://arxiv.org/pdf/2304.01008v3)** | 2024-08-19 | <details><summary>Accep...</summary><p>Accepted to IEEE T-PAMI</p></details> |
 | **[What to align in multimodal contrastive learning?](https://arxiv.org/pdf/2409.07402v2)** | 2025-03-06 | ICLR 2025, 25 pages |
 | **[A Theory of Multimodal Learning](https://arxiv.org/pdf/2309.12458v2)** | 2023-12-19 | Added reference |
@@ -29,8 +29,8 @@ labels: documentation
 | **[Representation Learning: A Statistical Perspective](https://arxiv.org/pdf/1911.11374v1)** | 2019-11-27 |  |
 | **[Learning sparse representations in reinforcement learning](https://arxiv.org/pdf/1909.01575v1)** | 2019-09-05 |  |
 | **[When Representations Align: Universality in Representation Learning Dynamics](https://arxiv.org/pdf/2402.09142v2)** | 2024-07-08 | 22 pages, 16 figures |
-| **[Socially Supervised Representation Learning: the Role of Subjectivity in Learning Efficient Representations](https://arxiv.org/pdf/2109.09390v4)** | 2022-09-23 |  |
 | **[Provable benefits of representation learning](https://arxiv.org/pdf/1706.04601v1)** | 2017-06-15 | 22 pages |
+| **[Socially Supervised Representation Learning: the Role of Subjectivity in Learning Efficient Representations](https://arxiv.org/pdf/2109.09390v4)** | 2022-09-23 |  |
 | **[Task-Induced Representation Learning](https://arxiv.org/pdf/2204.11827v1)** | 2022-04-26 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR), 2022</p></details> |
 | **[Meta-Learning Representations for Continual Learning](https://arxiv.org/pdf/1905.12588v2)** | 2019-11-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS19, 15 pages, 10 figures, open-source, representation learning, continual learning, online learning</p></details> |
 | **[Learning Sparse Representations Incrementally in Deep Reinforcement Learning](https://arxiv.org/pdf/1912.04002v1)** | 2019-12-10 |  |
@@ -54,12 +54,12 @@ labels: documentation
 | **[A Topological Perspective on Causal Inference](https://arxiv.org/pdf/2107.08558v3)** | 2022-06-01 | NeurIPS 2021 |
 | **[A Survey on Causal Inference for Recommendation](https://arxiv.org/pdf/2303.11666v2)** | 2024-07-09 | <details><summary>Accep...</summary><p>Accepted by The Innovation</p></details> |
 | **[Active Bayesian Causal Inference](https://arxiv.org/pdf/2206.02063v2)** | 2022-10-18 | <details><summary>NeurI...</summary><p>NeurIPS 2022 camera-ready version. RP & JvK are shared last authors. 10 pages + Bibliography + Appendix (34 pages total)</p></details> |
-| **[Causal programming: inference with structural causal models as finding instances of a relation](https://arxiv.org/pdf/1805.01960v1)** | 2018-05-08 | 30 pages, 9 figures |
 | **[Applications of Causality and Causal Inference in Software Engineering](https://arxiv.org/pdf/2303.16989v1)** | 2023-04-03 |  |
+| **[Causal programming: inference with structural causal models as finding instances of a relation](https://arxiv.org/pdf/1805.01960v1)** | 2018-05-08 | 30 pages, 9 figures |
+| **[A Survey on Causal Inference](https://arxiv.org/pdf/2002.02770v1)** | 2020-02-10 |  |
 | **[Lifted Causal Inference in Relational Domains](https://arxiv.org/pdf/2403.10184v1)** | 2024-03-18 | <details><summary>Accep...</summary><p>Accepted to the Proceedings of the 3rd Conference on Causal Learning and Reasoning (CLeaR-24)</p></details> |
 | **[LLMs Are Prone to Fallacies in Causal Inference](https://arxiv.org/pdf/2406.12158v1)** | 2024-06-19 |  |
-| **[A Survey on Causal Inference](https://arxiv.org/pdf/2002.02770v1)** | 2020-02-10 |  |
-| **[A Primer on Deep Learning for Causal Inference](https://arxiv.org/pdf/2110.04442v2)** | 2023-11-30 | <details><summary>Forth...</summary><p>Forthcoming in Sociological Methods and Research</p></details> |
+| **[Causal Support: Modeling Causal Inferences with Visualizations](https://arxiv.org/pdf/2107.13485v1)** | 2021-07-29 |  |
 
 ## Misinformation Detection
 | **Title** | **Date** | **Comment** |
@@ -68,8 +68,8 @@ labels: documentation
 | **[Emotion Detection for Misinformation: A Review](https://arxiv.org/pdf/2311.00671v1)** | 2024-02-15 | 30 pages, 11 figures |
 | **[Explore the Potential of LLMs in Misinformation Detection: An Empirical Study](https://arxiv.org/pdf/2311.12699v2)** | 2024-12-30 |  |
 | **[Exploring the Role of Audio in Multimodal Misinformation Detection](https://arxiv.org/pdf/2408.12558v1)** | 2024-08-23 |  |
-| **[Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/pdf/2309.13788v5)** | 2024-04-25 | <details><summary>Accep...</summary><p>Accepted to Proceedings of ICLR 2024. 9 pages for main paper, 40 pages including appendix. The code, results, dataset for this paper and more resources on "LLMs Meet Misinformation" have been released on the project website: https://llm-misinformation.github.io/</p></details> |
 | **[Online Misinformation Detection in Live Streaming Videos](https://arxiv.org/pdf/2503.12627v1)** | 2025-03-18 | <details><summary>First...</summary><p>First prize winner in the Smart City Challenge in the 16th ACM international WSDM conference(WSDM), 2023</p></details> |
+| **[Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/pdf/2309.13788v5)** | 2024-04-25 | <details><summary>Accep...</summary><p>Accepted to Proceedings of ICLR 2024. 9 pages for main paper, 40 pages including appendix. The code, results, dataset for this paper and more resources on "LLMs Meet Misinformation" have been released on the project website: https://llm-misinformation.github.io/</p></details> |
 | **[Early Detection of Misinformation for Infodemic Management: A Domain Adaptation Approach](https://arxiv.org/pdf/2406.10238v1)** | 2024-06-18 |  |
 | **[Misinformation Detection in Social Media Video Posts](https://arxiv.org/pdf/2202.07706v2)** | 2022-08-02 | <details><summary>We di...</summary><p>We discovered an error in our dataset construction where retweets were not properly filtered. This resulted in test data leakage in training data, and the results reported are affected</p></details> |
 | **[SoK: Machine Learning for Misinformation Detection](https://arxiv.org/pdf/2308.12215v4)** | 2025-01-28 |  |
