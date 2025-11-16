@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 15, 2025
+title: Latest 15 Papers - November 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
