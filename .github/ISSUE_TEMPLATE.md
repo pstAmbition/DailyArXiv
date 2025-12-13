@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 12, 2025
+title: Latest 15 Papers - December 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
@@ -51,7 +51,7 @@ labels: documentation
 | **[The causal effects of modified treatment policies under network interference](https://arxiv.org/abs/2412.02105v3)** | 2025-12-10 | 30 pages, 5 figures |
 | **[Multiply-robust Estimator of Cumulative Incidence Function Difference for Right-Censored Competing Risks Data](https://arxiv.org/abs/2512.09433v1)** | 2025-12-10 |  |
 | **[Two-stage Estimation for Causal Inference Involving a Semi-continuous Exposure](https://arxiv.org/abs/2511.20985v3)** | 2025-12-10 |  |
-| **[Prenatal alcohol exposure and child cognition: semi-continuous exposures, causal inference and evidence synthesis](https://arxiv.org/abs/2512.09237v1)** | 2025-12-10 |  |
+| **[Prenatal alcohol exposure and child cognition: semi-continuous exposures, causal inference and evidence synthesis](https://arxiv.org/abs/2512.09237v1)** | 2025-12-10 | <details><summary>arXiv...</summary><p>arXiv admin note: This version has been removed by arXiv administrators as the submitter did not have the right to agree to the license at the time of submission</p></details> |
 | **[Estimation of Treatment Effects based on Kernel Matching](https://arxiv.org/abs/2502.10958v2)** | 2025-12-10 |  |
 | **[Complementary strengths of the Neyman-Rubin and graphical causal frameworks](https://arxiv.org/abs/2512.09130v1)** | 2025-12-09 | <details><summary>Under...</summary><p>Under consideration at The American Statistician; not yet accepted</p></details> |
 | **[Causal inference under interference: computational barriers and algorithmic solutions](https://arxiv.org/abs/2512.08252v1)** | 2025-12-09 |  |
@@ -83,6 +83,10 @@ labels: documentation
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Asynchronous Reasoning: Training-Free Interactive Thinking LLMs](https://arxiv.org/abs/2512.10931v1)** | 2025-12-11 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
+| **[LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding](https://arxiv.org/abs/2512.06982v2)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning</p></details> |
+| **[SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale](https://arxiv.org/abs/2512.10922v1)** | 2025-12-11 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 4 tables</p></details> |
+| **[LLMs Can Assist with Proposal Selection at Large User Facilities](https://arxiv.org/abs/2512.10895v1)** | 2025-12-11 | 9 pages, 8figures |
 | **[LabelFusion: Learning to Fuse LLMs and Transformer Classifiers for Robust Text Classification](https://arxiv.org/abs/2512.10793v1)** | 2025-12-11 |  |
 | **[Script Gap: Evaluating LLM Triage on Indian Languages in Native vs Roman Scripts in a Real World Setting](https://arxiv.org/abs/2512.10780v1)** | 2025-12-11 |  |
 | **[The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data](https://arxiv.org/abs/2504.01951v2)** | 2025-12-11 |  |
@@ -94,14 +98,12 @@ labels: documentation
 | **[Thinking While Driving: A Concurrent Framework for Real-Time, LLM-Based Adaptive Routing](https://arxiv.org/abs/2512.10610v1)** | 2025-12-11 |  |
 | **[LLM-Auction: Generative Auction towards LLM-Native Advertising](https://arxiv.org/abs/2512.10551v1)** | 2025-12-11 |  |
 | **[XDoGE: Multilingual Data Reweighting to Enhance Language Inclusivity in LLMs](https://arxiv.org/abs/2512.10545v1)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted and presented at the LLMs4All workshop at the IEEE BigData 2025 Conference, Macau - December 8-11, 2025</p></details> |
-| **[Zero-shot 3D Map Generation with LLM Agents: A Dual-Agent Architecture for Procedural Content Generation](https://arxiv.org/abs/2512.10501v1)** | 2025-12-11 |  |
-| **[Decoding Human-LLM Collaboration in Coding: An Empirical Study of Multi-Turn Conversations in the Wild](https://arxiv.org/abs/2512.10493v1)** | 2025-12-11 |  |
-| **[LLM-Assisted AHP for Explainable Cyber Range Evaluation](https://arxiv.org/abs/2512.10487v1)** | 2025-12-11 |  |
-| **[From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection](https://arxiv.org/abs/2512.10485v1)** | 2025-12-11 |  |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Decision-Making Agents and Higher-Order Causal Processes](https://arxiv.org/abs/2512.10937v1)** | 2025-12-11 |  |
+| **[CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences](https://arxiv.org/abs/2512.10918v1)** | 2025-12-11 | 11 pages |
 | **[Learning Controllable and Diverse Player Behaviors in Multi-Agent Environments](https://arxiv.org/abs/2512.10835v1)** | 2025-12-11 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Games</p></details> |
 | **[EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce](https://arxiv.org/abs/2512.08868v2)** | 2025-12-11 |  |
 | **[Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution](https://arxiv.org/abs/2512.10696v1)** | 2025-12-11 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 9 tables</p></details> |
@@ -115,6 +117,4 @@ labels: documentation
 | **[HypeR Adaptivity: Joint $hr$-Adaptive Meshing via Hypergraph Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/2512.10439v1)** | 2025-12-11 |  |
 | **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v1)** | 2025-12-11 |  |
 | **[AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management](https://arxiv.org/abs/2512.10371v1)** | 2025-12-11 | 16 pages, 8 figures |
-| **[Dynamics of Agentic Loops in Large Language Models: A Geometric Theory of Trajectories](https://arxiv.org/abs/2512.10350v1)** | 2025-12-11 |  |
-| **[EpiPlanAgent: Agentic Automated Epidemic Response Planning](https://arxiv.org/abs/2512.10313v1)** | 2025-12-11 |  |
 
