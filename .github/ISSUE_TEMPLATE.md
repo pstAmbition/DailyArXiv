@@ -2,7 +2,7 @@
 title: Latest 15 Papers - December 22, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/pstAmbition/DailyArXiv_Multimodal) page for a better reading experience and more papers.**
 
 ## Multimodal Learning
 | **Title** | **Date** | **Comment** |
@@ -60,25 +60,6 @@ labels: documentation
 | **[Fast and Accurate Causal Parallel Decoding using Jacobi Forcing](https://arxiv.org/abs/2512.14681v1)** | 2025-12-16 |  |
 | **[PrivATE: Differentially Private Average Treatment Effect Estimation for Observational Data](https://arxiv.org/abs/2512.14557v1)** | 2025-12-16 | <details><summary>To ap...</summary><p>To appear in the NDSS 2026 Symposium, February 2026, San Diego, CA, USA</p></details> |
 | **[Causal Secondary Analysis of Linked Data in the Presence of Mismatch Error](https://arxiv.org/abs/2512.14492v1)** | 2025-12-16 |  |
-
-## Misinformation Detection
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v3)** | 2025-12-09 |  |
-| **[Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference](https://arxiv.org/abs/2512.01728v1)** | 2025-12-01 | AAAI 2026 |
-| **[Exploring Health Misinformation Detection with Multi-Agent Debate](https://arxiv.org/abs/2512.09935v1)** | 2025-11-29 |  |
-| **[TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs](https://arxiv.org/abs/2511.21624v1)** | 2025-11-26 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[Yesterday's News: Benchmarking Multi-Dimensional Out-of-Distribution Generalization of Misinformation Detection Models](https://arxiv.org/abs/2410.18122v4)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted for publication in Computational Linguistics on November 23, 2025. This is the pre-MIT Press publication version</p></details> |
-| **[From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation](https://arxiv.org/abs/2505.18685v2)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2025</p></details> |
-| **[A Cross-Cultural Assessment of Human Ability to Detect LLM-Generated Fake News about South Africa](https://arxiv.org/abs/2511.17682v1)** | 2025-11-21 |  |
-| **[CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality](https://arxiv.org/abs/2511.16191v1)** | 2025-11-20 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures, 2 tables. Code and implementation details available at: https://github.com/XiaotongZhan/Causal_Mamba</p></details> |
-| **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v3)** | 2025-11-19 |  |
-| **[HiEAG: Evidence-Augmented Generation for Out-of-Context Misinformation Detection](https://arxiv.org/abs/2511.14027v1)** | 2025-11-18 |  |
-| **[FinVet: A Collaborative Framework of RAG and External Fact-Checking Agents for Financial Misinformation Detection](https://arxiv.org/abs/2510.11654v2)** | 2025-11-17 |  |
-| **[MMD-Thinker: Adaptive Multi-Dimensional Thinking for Multimodal Misinformation Detection](https://arxiv.org/abs/2511.13242v1)** | 2025-11-17 |  |
-| **[T^2Agent A Tool-augmented Multimodal Misinformation Detection Agent with Monte Carlo Tree Search](https://arxiv.org/abs/2505.19768v2)** | 2025-11-17 | <details><summary>accep...</summary><p>accepted by AAAI 2026 (Oral)</p></details> |
-| **[Insight-A: Attribution-aware for Multimodal Misinformation Detection](https://arxiv.org/abs/2511.21705v1)** | 2025-11-17 |  |
-| **[Out-of-Context Misinformation Detection via Variational Domain-Invariant Learning with Test-Time Training](https://arxiv.org/abs/2511.10213v2)** | 2025-11-15 | <details><summary>accep...</summary><p>accepted by the AAAI Conference on Artificial Intelligence (AAAI) 2026</p></details> |
 
 ## LLM
 | **Title** | **Date** | **Comment** |
