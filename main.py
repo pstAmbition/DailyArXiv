@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Multimodal Learning", "Representation Learning", "Causal Inference", "Misinformation Detection", "LLM", "Agent"] # TODO add more keywords
+keywords = ["Multimodal Learning", "Representation Learning", "Causal Inference", "LLM", "Agent"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
@@ -45,7 +45,7 @@ f_is.write("---\n")
 f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
 f_is.write("labels: documentation\n")
 f_is.write("---\n")
-f_is.write("**Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**\n\n")
+f_is.write("**Please check the [Github](https://github.com/pstAmbition/DailyArXiv_Multimodal) page for a better reading experience and more papers.**\n\n")
 
 for keyword in keywords:
     f_rm.write("## {0}\n".format(keyword))
